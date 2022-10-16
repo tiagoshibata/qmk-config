@@ -1,3 +1,5 @@
+Building keymap: `qmk compile lily58-rev1-tiagoshibata-colemak.json`
+
 Flashing:
 
 ```
